@@ -1,0 +1,2 @@
+*.gisgraphy.com
+*.geonames.org
