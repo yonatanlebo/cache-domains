@@ -126,6 +126,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "gisgraphy",
+			"description": "CDN for gisgraphy",
+			"domain_files": ["gisgraphy.txt"]
 		}
 	]
 }
