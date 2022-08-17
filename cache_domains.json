@@ -126,6 +126,11 @@
 			"name": "gisgraphy",
 			"description": "CDN for gisgraphy",
 			"domain_files": ["gisgraphy.txt"]
+		},
+		{
+			"name": "geofabrik",
+			"description": "CDN for geofabrik",
+			"domain_files": ["geofabrik.txt"]
 		}
 	]
 }
