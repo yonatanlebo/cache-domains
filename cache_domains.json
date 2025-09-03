@@ -131,6 +131,11 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "photon",
+      "description": "CDN for photon",
+      "domain_files": ["photon.txt"]
     }
   ]
 }
