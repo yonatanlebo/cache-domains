@@ -1,3 +1,0 @@
-cdn-patch.swtor.com
-lvlt.cdn.ea.com
-origin-a.akamaihd.net

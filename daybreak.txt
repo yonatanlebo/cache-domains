@@ -1,2 +1,0 @@
-# Do NOT cache manifest.patch.daybreakgames.com
-pls.patch.daybreakgames.com
