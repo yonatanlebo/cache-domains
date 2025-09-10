@@ -1,3 +1,2 @@
-github.com
 raw.githubusercontent.com
 gist.github.com
