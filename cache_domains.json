@@ -43,10 +43,10 @@
       ]
     },
     {
-      "name": "yarnpkg.com",
+      "name": "yarnpkg",
       "description": "CDN for yarnpkg.com",
       "domain_files": [
-        "yarnpkg.com.txt"
+        "yarnpkg.txt"
       ]
     },
     {
