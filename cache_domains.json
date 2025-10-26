@@ -48,6 +48,13 @@
       "domain_files": [
         "yarnpkg.com.txt"
       ]
+    },
+    {
+      "name": "pouta",
+      "description": "CDN for pouta",
+      "domain_files": [
+        "pouta.txt"
+      ]
     }
   ]
 }
