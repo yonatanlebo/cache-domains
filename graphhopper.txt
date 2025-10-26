@@ -1,2 +1,1 @@
-download1.graphhopper.com
-api.graphhopper.com
+graphhopper.com
