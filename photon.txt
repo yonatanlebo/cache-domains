@@ -1,1 +1,1 @@
-https://download1.graphhopper.com/public
+download1.graphhopper.com

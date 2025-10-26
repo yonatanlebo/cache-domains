@@ -1,2 +1,2 @@
-https://download1.graphhopper.com/public
-https://api.graphhopper.com
+download1.graphhopper.com
+api.graphhopper.com
