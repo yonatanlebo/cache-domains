@@ -62,6 +62,13 @@
       "domain_files": [
         "opus.txt"
       ]
+    },
+    {
+      "name": "ubuntu",
+      "description": "CDN for ubuntu",
+      "domain_files": [
+        "ubuntu.txt"
+      ]
     }
   ]
 }
