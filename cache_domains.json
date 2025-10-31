@@ -55,6 +55,13 @@
       "domain_files": [
         "pouta.txt"
       ]
+    },
+    {
+      "name": "opus",
+      "description": "CDN for opus",
+      "domain_files": [
+        "opus.txt"
+      ]
     }
   ]
 }
