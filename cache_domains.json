@@ -69,6 +69,13 @@
       "domain_files": [
         "ubuntu.txt"
       ]
+    },
+    {
+      "name": "cpan",
+      "description": "CDN for cpan",
+      "domain_files": [
+        "cpan.txt"
+      ]
     }
   ]
 }
